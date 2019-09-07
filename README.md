@@ -20,7 +20,8 @@ Running
 -------
 
 Run in this directory:
-
+    $ docker-compose build
     $ docker-compose up
+    
 
 The app will be running on port 5000 on your Docker host, and the results will be on port 5001.
